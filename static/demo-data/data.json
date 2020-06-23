@@ -1,0 +1,141 @@
+[
+    {
+        "id": 1,
+        "text": "Hi there!",
+        "messageType": "Question",
+        "imageUrl": "",
+        "nextMessageId": "",
+        "option1": "Hi",
+        "option1_nextMessageId": 2
+    },
+    {
+        "id": 2,
+        "text": "Do you need help getting to stage four of the internship?",
+        "messageType": "Question",
+        "imageUrl": "",
+        "nextMessageId": "",
+        "option1": "Yes",
+        "option1_nextMessageId": 4,
+        "option2": "No",
+        "option2_nextMessageId": 3,
+        "option3": ""
+    },
+    {
+        "id": 3,
+        "text": "No? I take it you're already in stage 4. Is that correct?",
+        "messageType": "Question",
+        "imageUrl": "",
+        "nextMessageId": "",
+        "option1": "Yes",
+        "option1_nextMessageId": 12,
+        "option2": "No",
+        "option2_nextMessageId": 18
+    },
+    {
+        "id": 4,
+        "text": "To get to stage four, you need to complete a task.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 5
+    },
+    {
+        "id": 5,
+        "text": "You can either complete a solo task or join a team.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 6
+    },
+    {
+        "id": 6,
+        "text": "What path would you like to take?",
+        "messageType": "Question",
+        "imageUrl": "",
+        "nextMessageId": "",
+        "option1": "Solo task",
+        "option1_nextMessageId": 7,
+        "option2": "Join team",
+        "option2_nextMessageId": 13
+    },
+    {
+        "id": 7,
+        "text": "The solo task involves building a chatbot in a language you are comfortable with.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 8
+    },
+    {
+        "id": 8,
+        "text": "The chatbot must use ajax.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 10
+    },
+    {
+        "id": 10,
+        "text": "I was built with python.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 11
+    },
+    {
+        "id": 11,
+        "text": "Do you think you can crack this task on your own?",
+        "messageType": "Question",
+        "imageUrl": "",
+        "nextMessageId": "",
+        "option1": "Yes, I'll do it",
+        "option1_nextMessageId": 12,
+        "option2": "No, I'll join the team",
+        "option2_nextMessageId": 13
+    },
+    {
+        "id": 12,
+        "text": "Ok then, All the best.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": ""
+    },
+    {
+        "id": 13,
+        "text": "You can work with the team to build a micro API.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 14
+    },
+    {
+        "id": 14,
+        "text": "You should sign in to club house where you will be collaborating with the team.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 15
+    },
+    {
+        "id": 15,
+        "text": "Go through the available task and choose a task you like.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 16
+    },
+    {
+        "id": 16,
+        "text": "Happy coding.",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 17
+    },
+    {
+        "id": 17,
+        "text": "If you have other questions, please contact Tomi.py",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": ""
+    },
+    {
+        "id": 18,
+        "text": "Then I guess you're just checking me out",
+        "messageType": "",
+        "imageUrl": "",
+        "nextMessageId": 17
+    }
+
+]

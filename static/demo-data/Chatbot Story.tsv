@@ -1,0 +1,18 @@
+id	text	messageType	imageUrl	nextMessageId	option1	option1_nextMessageId	option2	option2_nextMessageId	option3	option3_nextMessageId	option4	option4_nextMessageId	option5	option5_nextMessageId	option6	option6_nextMessageId
+1	Hi there!	Question			Hi	2										
+2	Do you need help getting to stage four of the internship?	Question			Yes	4	No	3								
+3	No? I take it you're already in stage 4. Is that correct?	Question			Yes	12  No 	18									
+4	To get to stage four, you need to complete a task.	Text        5												
+5	You can either complete a solo task or join a team.	Text		6												
+6	What path would you like to take? 	Question		Solo task 7 Join team 13												
+7	The solo task involves building a chatbot in a language you are comfortable with.	Text		8												
+8	The chatbot must use ajax.  Text        10        								
+10	I was built with python.  Text		11												
+11	Do you think you can crack this task on your own?	Question		Yes, I'll do it 12  No, I'll join the team 13											
+12	Ok then, All the best.	Text													
+13	You can work with the team to build a micro API.    Text 14							
+14	You should sign in to club house where you will be collaborating with the team.	Text		15												
+15	Go through the available task and choose a task you like.	Text		16												
+16	Happy coding.	Text	17											
+17	If you have other questions, please contact Tomi.py  Text										
+18	Then I guess you're just checking me out	Text		17																									
